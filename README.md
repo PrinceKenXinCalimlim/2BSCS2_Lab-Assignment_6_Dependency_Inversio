@@ -13,4 +13,4 @@ Create a repository in your GitHub account. Put your solution there. The readme 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
 
-![UML_Class_Diagram](https://github.com/PrinceKenXinCalimlim/2BSCS2_Lab-Assignment_6_Dependency_Inversion/assets/152839644/89c9299f-e9e0-4bcd-8433-ce480c1b5fd0)
+![UML_Class_Diagram]![Blank diagram (8)]![UML DIAGRAM](https://github.com/PrinceKenXinCalimlim/2BSCS2_Lab-Assignment_6_Dependency_Inversion/assets/152839644/b4ace8ee-15ea-4cc2-9048-192b3c1c7bc3)
